@@ -20,7 +20,7 @@ Copy desired shader mods to the ShaderFixes folder ( \Elite Dangerous\Products\e
 
 - 0e2149b4fd70c66b - removes "tron" lines from supercruise
 
-- 8330ab10a104d1b1 - removes off interrior ship lights
+- 8330ab10a104d1b1 - removes interior ship lights
 
 - 06b5574cbb67cb5c - removes starfield in normal flight
 
