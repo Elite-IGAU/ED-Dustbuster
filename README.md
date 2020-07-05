@@ -29,6 +29,7 @@ e29d91120fc28c8e - removes lights for ships and stations in supercruise, and a w
 **Installation**
 
 Go to the the Elite Dangerous installation folder and extract the ZIP file into that directory:
-*Exaqmple:* C:\Program Files (x86)\Steam\steamapps\common\Elite Dangerous\Products\elite-dangerous-64
+
+*Example:* C:\Program Files (x86)\Steam\steamapps\common\Elite Dangerous\Products\elite-dangerous-64
 
 Copy desired shader mods to the ShaderFixes folder
