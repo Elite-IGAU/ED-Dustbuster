@@ -1,6 +1,5 @@
 # ED-Dustbuster
-Elite Dangerous "Dustbuster" Shader mods 
-
+Elite Dangerous "Dustbuster" Shader mods. Project no longer maintained by original author.
 See Frontier forum post: https://forums.frontier.co.uk/threads/dust-buster-the-space-dust-removal-mod.260740/
 
 
