@@ -5,7 +5,8 @@ See Frontier forum post: https://forums.frontier.co.uk/threads/dust-buster-the-s
 
 **Installation**
 
-Find the Elite Dangerous installation folder and extract the ZIP file (https://github.com/Elite-IGAU/ED-Dustbuster/blob/master/ED-Dustbuster.zip) into that directory:
+Find the Elite Dangerous installation folder and extract 
+(https://github.com/Elite-IGAU/ED-Dustbuster/blob/master/ED-Dustbuster.zip) into that directory:
 
 *Example:* C:\Program Files\Elite Dangerous\Products\elite-dangerous-64
 
