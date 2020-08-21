@@ -1,4 +1,5 @@
 // ---- Created with 3Dmigoto v1.3.12 on Fri Dec 14 20:37:20 2018
+
 Texture2D<float4> t0 : register(t0);
 
 SamplerState s0_s : register(s0);
